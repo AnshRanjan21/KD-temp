@@ -178,7 +178,7 @@ def main():
         )
 
     st.markdown("---")
-    st.caption("Made with ❤️ by Killing Data ⚡ (Sarthak, Ansh, Akash)")
+    st.caption("Made by Killing Data  (Sarthak, Ansh, Akash)")
 
 if __name__ == "__main__":
     main()
